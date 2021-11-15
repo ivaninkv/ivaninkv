@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Konstantin, I'm DevOps Engineer with background in ERP and SQL development.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivaninkv&count_private=true&show_icons=true&theme=vue)](https://github.com/ivaninkv)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivaninkv)
+
+
 <!--
 **ivaninkv/ivaninkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
