@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Konstantin, I'm DevOps Engineer with background in ERP and SQL development.
+My name is Konstantin, I'm a DevOps Engineer with experience in ERP and SQL development.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivaninkv&count_private=true&show_icons=true&theme=vue)](https://github.com/ivaninkv)
 
